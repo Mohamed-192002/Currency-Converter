@@ -1,0 +1,31 @@
+body {
+	background:url(image/images.jpg);
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	color: #f44335 !important;
+}
+.heading {
+    font-family: 'Pacifico', cursive;
+    margin: 35px auto 20px;
+}
+.main {
+	width: 600px;
+	margin: auto;
+	border-radius: 20px;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+label {
+	font-size: 20px;
+	color: #f44335;
+}
+.btn {
+	width: 250px;
+	background-color: #f44335 !important;
+}
+
+
+
+
+
